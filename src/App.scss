@@ -1,11 +1,11 @@
 @import './styles/style';
 
 body {
-  background-color: #dee2e6;
+  background-color: $background_light;
 }
 
 a:hover {
-  color: #000;
+  color: $text_black;
   text-decoration: none;
 }
 
@@ -16,7 +16,7 @@ a,
 ul,
 li {
   font-family: 'Noto Sans', 'Roboto', sans-serif;
-  color: #343434;
+  color: $text_default_color;
 }
 
 
@@ -45,7 +45,7 @@ li {
   header {
     font-family: 'Montserrat', sans-serif;
     font-size: 1.2rem;
-    color: #343434;
+    color: $text_default_color;
 
     .navbar-nav .nav-link {
       font-weight: 300;
@@ -54,7 +54,7 @@ li {
 
   footer {
     font-size: 0.9rem;
-    color: #343434;
+    color: $text_default_color;
 
     .resources-list {
       list-style-type: none;

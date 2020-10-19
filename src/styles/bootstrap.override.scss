@@ -1,9 +1,9 @@
 .btn.btn-primary {
-  background-color: $cr_region_primary;
-  border-color: $cr_region_primary_off;
+  background-color: $primary_color;
+  border-color: $primary_color_light;
 
   &:hover {
-    background-color: $cr_region_primary_light;
+    background-color: $primary_color_light;
   }
 }
 
@@ -14,10 +14,10 @@
 
   .nav-link {
     font-weight: 300;
-    background-color: $cr_region_dark_faint;
+    background-color: $text_black;
 
     &.active {
-      background-color: $cr_region_primary;
+      background-color: $text_default_color;
     }
   }
 }

@@ -41,6 +41,12 @@ const Header = () => {
                   <Nav.Link className="mx-2" href="#apps">
                     {t('layout:header.Apps')}
                   </Nav.Link>
+                  <Nav.Link className="mx-2" href="#home">
+                    {t('layout:header.Developers')}
+                  </Nav.Link>
+                  <Nav.Link className="mx-2" href="https://docs.elamask.com" target="_blank">
+                    {t('layout:header.Guides')}
+                  </Nav.Link>
                   <NavDropdown
                     className="mx-2"
                     title={flagIcon}

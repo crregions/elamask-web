@@ -14,7 +14,7 @@ const Home = () => {
             <h3>
               {t(
                 'hero.title',
-                'Home'
+                'Coming Soon'
               )}
             </h3>
           </Col>
