@@ -1,0 +1,23 @@
+.btn.btn-primary {
+  background-color: $cr_region_primary;
+  border-color: $cr_region_primary_off;
+
+  &:hover {
+    background-color: $cr_region_primary_light;
+  }
+}
+
+.nav.nav-pills {
+  .nav-item {
+    margin-right: 8px;
+  }
+
+  .nav-link {
+    font-weight: 300;
+    background-color: $cr_region_dark_faint;
+
+    &.active {
+      background-color: $cr_region_primary;
+    }
+  }
+}

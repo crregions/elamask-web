@@ -1,0 +1,32 @@
+{
+  "header": {
+    "lang": {
+      "en": "EN",
+      "zh": "中文"
+    },
+    "Home": "Home",
+    "Apps": "Apps"
+  },
+  "footer": {
+    "A global community team of Cyber Republic": "CR全球社区团队",
+    "Join the Community": "加入社区",
+    "Visit us on Telegram": "加入电报群",
+
+    "Resources": "资源",
+    "Cyber Republic Website": "CR网站",
+    "Elastos Official": "亦来云官网",
+    "Elastos Info": "亦来云 Info",
+    "Developer Website": "开发者网站",
+    "News & Updates": "最新消息和更新",
+
+    "Useful Links": "有用链接",
+    "Elastos Links": "亦来云链接",
+    "Elastos Supernodes": "亦来云超级节点",
+    "Elastos Academy": "亦来云学院",
+    "Nucleus Console": "Nucleus主控台",
+
+    "disclaimer": "这是一个第三方网站，所有信息、材料和观点都不属于亦来云基金会。",
+
+    "rights_reserved": "© 2020 CR Regions Ltd. - 版权所有"
+  }
+}

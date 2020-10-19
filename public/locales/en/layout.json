@@ -1,0 +1,32 @@
+{
+  "header": {
+    "lang": {
+      "en": "EN",
+      "zh": "中文"
+    },
+    "Home": "Home",
+    "Apps": "Apps"
+  },
+  "footer": {
+    "A Community Supported Project of Cyber Republic": "A Community Supported Project of Cyber Republic",
+    "Join the Community": "Join the Community",
+    "Visit us on Telegram": "Visit us on Telegram",
+
+    "Resources": "Resources",
+    "Cyber Republic Website": "Cyber Republic Website",
+    "Elastos Official": "Elastos Official",
+    "Elastos Info": "Elastos Info",
+    "Developer Website": "Developer Website",
+    "News & Updates": "News & Updates",
+
+    "Useful Links": "Useful Links",
+    "Elastos Links": "Elastos Links",
+    "Elastos Supernodes": "Elastos Supernodes",
+    "Elastos Academy": "Elastos Academy",
+    "Nucleus Console": "Nucleus Console",
+
+    "disclaimer": "This is a 3rd-party website, all information, materials and views expressed are not that of Elastos Foundation.",
+
+    "rights_reserved": "© 2020 CR Regions Ltd. - All Rights Reserved"
+  }
+}

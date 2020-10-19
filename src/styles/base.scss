@@ -1,0 +1,68 @@
+
+// this file should make no assumptions on theme, mostly a reset that extends bootstrap reset
+
+a {
+  text-decoration: none;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+ul {
+  padding-left: 16px;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
+
+
+.dropdown-menu,
+.modal {
+  // because wow fadeIn z_index is 99999
+  z-index: 100000;
+}
+
+.modal-dialog {
+  margin-top: 10%;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  a,
+  ul,
+  div,
+  li {
+    font-family: 'Poppins', sans-serif;
+    color: #181818;
+  }
+}
+
+
+.tooltip .tooltip-inner {
+  color: #181818;
+  padding: 8px;
+  background-color: #fff;
+}
+.tooltip.bs-tooltip-top > .arrow::before {
+  border-top-color: #fff;
+}
+.tooltip.bs-tooltip-right > .arrow::before {
+  border-right-color: #fff;
+}
+.tooltip.bs-tooltip-bottom > .arrow::before {
+  border-bottom-color: #fff;
+}
+.tooltip.bs-tooltip-left > .arrow::before {
+  border-left-color: #fff;
+}
